@@ -26,7 +26,7 @@ Users should be able to:
 ### Links
 
 - Github Repository: (https://github.com/rhodalewi/Dropdown-Navigation)
-- Live Site URL: (https://your-live-site-url.com)
+- Live Site URL: (https://rhodalewi.github.io/Dropdown-Navigation/)
 
 ## My process
 
